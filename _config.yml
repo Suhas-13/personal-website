@@ -45,8 +45,8 @@ social_media:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-   linkedin: https://linkedin.com/in/suhas-13
-   hackerone: https://hackerone.com/insertcustomname
+   linkedin: suhas-13
+   hackerone: insertcustomname
 
 #topics:
  # - name: CSS
